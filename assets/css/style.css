@@ -54,3 +54,23 @@ footer {
     width: 100%;
     padding: 40px 35px;
 }
+
+/* this will make some changes to the h2 inside the footer.*/
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+/* this will make some style changes affecting the div element inside the footer element*/
+footer div{
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+/* this will apply a style change to the a element inside the footer*/
+footer a {
+    color: #024e76;
+}
