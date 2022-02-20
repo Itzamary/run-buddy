@@ -47,3 +47,10 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+
+/* here we will make changes to the footer element */
+footer {
+    background-color: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
