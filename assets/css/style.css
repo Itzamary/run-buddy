@@ -19,5 +19,24 @@ header h1 {
 
 /* this will select the a element inside the header element*/
 header a {
+    text-decoration: none;
     color: #fce138;
+}
+
+/* this will apply style to the nav element inside the header element*/
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+/* now we apply changes to the list inside the nav element.*/
+header nav ul li {
+    display: inline;
+}
+
+/* this will change the style of the a elements only inside the nav element.*/
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
 }
