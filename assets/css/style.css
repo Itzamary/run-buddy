@@ -1,3 +1,9 @@
+/* this will remove all margin and padding that is the default for the page*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
 /* this will add the font type to all my html page */
 body {
     font-family: Helvetica, Arial, sans-serif;
