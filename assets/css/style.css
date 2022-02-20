@@ -1,3 +1,10 @@
+/* this will add the font type to all my html page */
 body {
     font-family: Helvetica, Arial, sans-serif;
+}
+
+/* this will apply styles to header*/
+header {
+    padding: 20px 35 px;
+    background-color: #39a6b2;
 }
