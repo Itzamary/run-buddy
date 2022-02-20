@@ -8,3 +8,16 @@ header {
     padding: 20px 35 px;
     background-color: #39a6b2;
 }
+
+/*this will select the h1 inside the header element*/
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+}
+
+/* this will select the a element inside the header element*/
+header a {
+    color: #fce138;
+}
