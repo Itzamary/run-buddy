@@ -76,3 +76,11 @@ footer div{
 footer a {
     color: #024e76;
 }
+
+/* giving the hero section some style */
+section {
+    padding 60px;
+    background-image: url("../images/hero-bg.jpg");
+}
+
+
