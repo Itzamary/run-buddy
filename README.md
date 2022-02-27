@@ -3,12 +3,14 @@
 ## Purpose
 A website that offers fitness training services.
 
-## Built with 
-*HTML
-*CSS
+## Built With 
+* HTML
+* CSS
 
 ## Website
 https://itzamary.github.io/run-buddy/
 
-## Constribution
+## Contribution
 Made with ❤️ by Itzamary Jimenez.
+
+### ©️2019 Run Buddy, Inc
