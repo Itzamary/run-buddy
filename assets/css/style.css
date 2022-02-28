@@ -28,7 +28,7 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
+    
 }
 
 /* this will select the a element inside the header element*/
@@ -39,7 +39,7 @@ header a {
 
 /* this will apply style to the nav element inside the header element*/
 header nav {
-    float: right;
+    
     margin: 7px 0;
 }
 
