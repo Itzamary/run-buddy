@@ -45,17 +45,20 @@ header nav {
     
     margin: 7px 0;
 }
-
-/* now we apply changes to the list inside the nav element.*/
-header nav ul li {
-    display: inline;
+/* made the navigation a flexbox */
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
 }
 
 /* this will change the style of the a elements only inside the nav element.*/
 header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
-    font-size: 22px;
+    font-size: 1.55vw;
 }
 
                           /*HERO SECTION*/
