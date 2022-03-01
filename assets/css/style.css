@@ -165,8 +165,7 @@ section {
 
                           /*WHAT YOU DO SECTION */
 
-.steps {
-    
+.steps { 
     background-color: #fce138;
 }
 
@@ -203,7 +202,7 @@ section {
                           /* MEET THE TRAINER SECTION*/
 
 .trainers {
-    text-align: center;
+  
 }
 
 .trainer {
@@ -319,7 +318,7 @@ footer a {
 /* UTILITY RULES*/
 
 .text-right {
-    
+    text-align: right;
 }
 
 .text-left {
