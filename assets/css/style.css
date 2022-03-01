@@ -286,11 +286,14 @@ footer {
     background-color: #fce138;
     width: 100%;
     padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 /* this will make some changes to the h2 inside the footer.*/
 footer h2 {
-    display: inline;
+    
     color: #024e76;
     font-size: 30px;
     margin: 0;
@@ -298,7 +301,7 @@ footer h2 {
 
 /* this will make some style changes affecting the div element inside the footer element*/
 footer div{
-    float: right;
+    
     line-height: 1.5;
     text-align: right;
 }
