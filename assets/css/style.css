@@ -459,7 +459,7 @@ footer a {
     }
 
     .step-text{
-        flex: 100%
+        flex: 100%;
     }
 }
 
@@ -470,7 +470,7 @@ footer a {
     }
 
     .section-title {
-        width: 100%;
+        width: 95%;
     }
 
     .intro p {
