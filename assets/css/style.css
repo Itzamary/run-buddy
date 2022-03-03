@@ -23,6 +23,14 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-image: url(../images/hero-bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-position: 80%;
 }
 
 /*this will select the h1 inside the header element*/
@@ -77,6 +85,8 @@ section {
     justify-content: center;
     flex-wrap: wrap;
     align-items: flex-start;
+    background-attachment: fixed;
+    background-position: 80%;
   }
 
   /* eddits the Call to action section indise the hero section*/
@@ -399,6 +409,7 @@ footer a {
     header {
         padding-bottom: 0;
         justify-content: center;
+        position:relative;
     }
 
     header h1{
