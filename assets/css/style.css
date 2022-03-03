@@ -70,6 +70,14 @@ header nav ul li a {
     text-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
+/*hover rule for header anchors.*/
+header nav ul li a:hover {
+    background: #fce138;
+    color: #024e76;
+    border-radius: 15px;
+    text-shadow: none;
+}
+
                           /*HERO SECTION*/
 
 /* effects all section tags in the html page */
@@ -148,6 +156,11 @@ section {
     font-size: 16px;
     border-radius: 10px;
 }
+
+ /* hover state for hero form button */
+ .hero-form button:hover {
+     background-color: #39a6b2;
+ }
 
 
 
@@ -352,6 +365,12 @@ section {
     padding: 15px 0;
     font-size: 16px;
     border-radius: 10px;
+}
+
+/* hover state of contact form button */
+.contact-form button:hover {
+    color: #fce138;
+    background-color: #39a6b2;
 }
 
 
