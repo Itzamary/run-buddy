@@ -142,6 +142,13 @@ section {
     width: 100%;
     margin-bottom: 15px;
     border-radius: 10px;
+    background-color:rgba(255,255,255,0.75);
+}
+
+/* this will add a focus pseudo class state*/
+.form-input:focus {
+    background-color: rgba(255,255,255,1);
+    outline: none;
 }
 
 .hero-form label {
@@ -207,11 +214,15 @@ section {
     margin: 50px auto;
     padding-bottom: 50px;
     width: 80%;
-    border-bottom: 1px solid #39a6b2;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 1px solid #39a6b2;
+}
+
+.step:last-child {
+    border-bottom: none;
 }
 
 .step h3 {
@@ -354,6 +365,12 @@ section {
     margin-bottom: 15px;
     margin-top: 5px;
     border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.75)
+}
+
+/* will add a focus state to the contact form.*/
+.contact-form input, .contact-form textarea:focus {
+    background-color: rgba(255, 255, 255, 1);
 }
 
 .contact-form button {
