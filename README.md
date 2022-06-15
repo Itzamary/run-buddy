@@ -7,8 +7,11 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
+## Website Link
 https://itzamary.github.io/run-buddy/
+
+## Image
+![](./assets/images/runbuddy-homepage.png)
 
 ## Contribution
 Made with ❤️ by Itzamary Jimenez.
