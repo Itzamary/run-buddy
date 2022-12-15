@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+In this project we learn to use HTML and CSS in a landing page for Run Buddy, a service website that allows customers to sign up for personal training.
 
 ## Built With 
 * HTML
